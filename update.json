@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "changelog": "- Fixed engine crash on startup\n- Added new overlay themes\n- Migrated licensing to Cloudflare proxy",
+  "version": "1.0.0",
+  "changelog": "- Initial release.",
   "discord_url": "https://discord.gg/brilliance"
 }
