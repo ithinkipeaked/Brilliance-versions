@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "changelog": "- Fixed engine crash on startup\n- Added new overlay themes\n- Migrated licensing to Cloudflare proxy",
+  "discord_url": "https://discord.gg/yourinvitecode"
+}
